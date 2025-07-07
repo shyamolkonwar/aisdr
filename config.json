@@ -1,0 +1,12 @@
+{
+  "goal": "Book meetings",
+  "industry": "AI SaaS",
+  "location": "United States",
+  "role": "Founder",
+  "product": "an AI that improves cold outreach response rate by 40%",
+  "lead_source": "csv",
+  "email_provider": "gmail",
+  "crm": "local_csv",
+  "leads_per_day": 5,
+  "follow_up_days": 2
+} 

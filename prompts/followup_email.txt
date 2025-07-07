@@ -1,0 +1,22 @@
+Write a follow-up email to {{name}}, the {{title}} of {{company}}.
+
+Context: 
+- They run a {{industry}} company in {{location}}
+- You sent them an initial email {{days_ago}} days ago about {{product}}
+- They have not responded yet
+
+Tone: Friendly, helpful, not pushy. Keep it even shorter than the first email (2-3 sentences max).
+
+Include:
+1. Brief reference to previous email
+2. New angle or value proposition
+3. Simple call-to-action
+
+Do NOT apologize for following up.
+Do NOT use guilt tactics.
+Do NOT ask if they got your previous email.
+
+Format your response with:
+Subject: [Your subject line]
+
+[Email body] 

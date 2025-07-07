@@ -1,0 +1,20 @@
+Write a personalized cold email to {{name}}, the {{title}} of {{company}}.
+
+Context: They run a {{industry}} company in {{location}}.
+
+Product: {{product}}
+
+Tone: Conversational and value-driven. Keep it concise (3-4 sentences max).
+
+Include:
+1. Personalized opening based on their role/company
+2. Brief value proposition 
+3. One clear call-to-action (schedule a call)
+
+Do NOT use generic phrases like "I hope this email finds you well."
+Do NOT include pricing or technical details.
+
+Format your response with:
+Subject: [Your subject line]
+
+[Email body] 
